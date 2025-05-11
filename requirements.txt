@@ -12,3 +12,5 @@ opencv-python==4.5.3.56
 # PyTorch (with Python 3.11 support)
 torch==2.0.1
 torchvision==0.15.2
+gunicorn>=20.1.0
+
