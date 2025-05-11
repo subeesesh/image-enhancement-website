@@ -1,6 +1,14 @@
+# Build tools
+pip>=23.2
+setuptools>=68.0
+wheel>=0.41
+
+# Core dependencies
 flask==2.0.1
 Werkzeug==2.0.1
 numpy==1.24.4
 opencv-python==4.5.3.56
+
+# PyTorch (with Python 3.11 support)
 torch==2.0.1
 torchvision==0.15.2
